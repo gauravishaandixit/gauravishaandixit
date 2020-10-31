@@ -1,7 +1,7 @@
 ### Hi there,
 ### I am Gaurav Dixit. I am currently persuing postgraduation at International Institute of Information Technology, Bangalore.
 
-I am currently working on a mosip project using Python Behave.
+I am currently learning MERN.
 
 
 ### My Programming Handles
