@@ -1,5 +1,5 @@
 ### Hi there,
-### I am Gaurav Dixit. I am currently persuing postgraduation at International Institute of Information Technology, Bangalore.
+### I am Gaurav Dixit. I am currently pursuing postgraduation at International Institute of Information Technology, Bangalore.
 
 I am currently learning MERN.
 
