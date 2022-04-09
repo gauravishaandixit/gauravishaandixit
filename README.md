@@ -1,8 +1,10 @@
 ### Hi there,
-### I am Gaurav Dixit. I am currently pursuing postgraduation at International Institute of Information Technology, Bangalore.
+### I am Gaurav Dixit. I am currently working as Software Engineer (Android Developer) at Qualcomm.
 
-I am currently learning MERN.
+I completed my postgraduation from IIIT Bangalore in 2021 and graduation from MMMUT in 2019.
 
+I am skilled in Android Development (Kotlin, Dagger Hilt, Jetpack Compose) and Backend Web Development in microservices using Java and Kotlin.
+I also have handson experience in Angular and React.
 
 ### My Programming Handles
 [<img align="left" alt="gaurav_dixit | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/gaurav_dixit/)
